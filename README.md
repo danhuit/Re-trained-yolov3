@@ -1,6 +1,6 @@
 ﻿# Re-trained yolov3
 ### 1. **Get source [1]**
-- git clone <a>https://github.com/AlexeyAB/darknet.git</a>
+- git clone <p><a https://github.com/AlexeyAB/darknet.git</a></p>
 - [Compile on Linux](https://github.com/AlexeyAB/darknet#how-to-compile-on-linux-using-make) use make.
 ### 2. **Prepare your lable data**
 - Use [lable tool](https://github.com/tzutalin/labelImg)[2]
